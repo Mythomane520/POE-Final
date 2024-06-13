@@ -1277,34 +1277,20 @@ body {
       margin-top: 3%;
       /* margin-left: 2%; */
     }
-    .SixImage{
-       
-       width: 80%;
-    }
+
     .ulList{
-      /* border: 2px solid aqua; */
+      
       width: 100%;
       display: flex;
       flex-wrap: wrap;
       min-width:80% ;
       margin-left: -3%;
-      /* border: 2px solid red; */
+      
     }
 
 }
 @media only screen and (max-width: 320px){
-  #closeBtn{
-    visibility: visible;
-    display: inline-block;
-    position: absolute;
-    left:80%;
-    /* top:-1%; */
-    /* margin-bottom: 1rem; */
-    background-color: black;
-    color:white ;
-    
-    z-index: 12;
-}
+
 .container .nav .item li {
   position: relative;
   color: rgba(0, 0, 0, 0.5);
@@ -1319,7 +1305,7 @@ body {
   left:-15%;
   margin: 20px;
   text-align: center;
-  /* border: 2px solid blue; */
+  
 }
 .socialIcons{
   display: inline-block;
@@ -1327,7 +1313,7 @@ body {
   height: 200%;
   margin-left: 1.0rem;
   overflow: hidden;
-  /* border: 2px solid blue; */
+  
 }
 .box{
   /* border: 2px solid blue; */
